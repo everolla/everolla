@@ -6,7 +6,7 @@
 
 ⌨️ I’m currently learning C, C++, Python
 
-📫 Reach me -> everolla@student.42roma.it
+📫 Reach out -> everolla@student.42roma.it
 
 
 <!--
