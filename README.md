@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-👋 Hi, I’m @everolla (Emanuele)
+👋 Hi, I’m @everolla (Emanuele Verolla)
 
 🖥 I’m currently studing at 42Roma Luiss
 
-⌨️ I’m currently learning C, C++
+⌨️ I’m currently learning C, C++, Python
 
 📫 Reach me -> everolla@student.42roma.it
 
