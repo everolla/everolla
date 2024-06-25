@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+👋 Hi, I’m @everolla (Emanuele)
+🖥 I’m currently studing at 42Roma Luiss
+⌨️ I’m currently learning C, C++
+📫 Reach me -> everolla@student.42roma.it
+
 <!--
 **everolla/everolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
