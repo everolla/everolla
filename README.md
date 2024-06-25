@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hi, I’m @everolla (Emanuele Verolla)
+👋 Hi, I’m @everolla - Emanuele Verolla
 
 🖥 I’m currently studing at 42Roma Luiss
 
