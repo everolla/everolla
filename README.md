@@ -6,7 +6,7 @@
 
 🛠 C, C++, Python, Flask, Django
 
-⌨️ I’m currently learning Javascript, Next.js, Node.js, Fastify
+⌨ learning Javascript, Next.js, Node.js, Fastify
 
 📫 Reach out -> emanueleverolla@gmail.com
 
