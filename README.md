@@ -4,9 +4,11 @@
 
 🖥 I’m currently studing at 42Roma Luiss
 
-⌨️ I’m currently learning C, C++, Python
+🛠 C, C++, Python, Flask, Django
 
-📫 Reach out -> everolla@student.42roma.it
+⌨️ I’m currently learning Javascript, Next.js, Node.js, Fastify
+
+📫 Reach out -> emanueleverolla@gmail.com
 
 
 <!--
